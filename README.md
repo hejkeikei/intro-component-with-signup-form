@@ -102,7 +102,7 @@ inputfield.nextElementSibling.innerHTML =
 
 ### Useful resources
 
-- [Email validation](https://www.w3resource.com/javascript/form/email-validation.php) - This helped me style my toggle prettier.
+- [Email validation](https://www.w3resource.com/javascript/form/email-validation.php) - This helped test the email format.
 - [Icon in input field](https://stackoverflow.com/questions/917610/put-icon-inside-input-element-in-a-form) - I wasn't sure about which way should I do with icons, this is the approach I liked the most!
 - [Regular Expression](https://regex101.com/) - This is a great website that could fiddle with regex and preview the result.
 
